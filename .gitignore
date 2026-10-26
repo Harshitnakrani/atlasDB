@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+atlas
+
+# Database files
+*.db
+*.wal
+data/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
